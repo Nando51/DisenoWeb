@@ -24,8 +24,7 @@
 
           type="text"><button class="btn btn-outline-success" type="submit">Buscar!</button></form>
       <div class="collapse navbar-collapse"> <a class="navbar-brand" href="ejerciciosTema2/nosotros.html">Nosotros</a>
-        <a class="navbar-brand" href="ejerciciosTema2/nuestrosServicios.html">Nuestros
-          Servicios</a> <a class="navbar-brand" href="../index.html">INDEX</a>
+        <a class="navbar-brand" href="https://github.com/Nando51/DisenoWeb">Repositorio</a> <a class="navbar-brand" href="../index.html">INDEX</a>
       </div>
     </nav>
     <header>
