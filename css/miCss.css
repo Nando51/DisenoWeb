@@ -1,0 +1,16 @@
+
+nav a{
+  border:dotted 2px yellowgreen
+}
+nav a:hover{
+border: dotted 2px blueviolet 
+}
+body>header{
+  margin-top:60px; 
+}
+section article p{
+  padding:2e 1em;
+    margin-bottom:2em;
+  background-color: #e9ecef;
+  border-radius: 1em;
+}
