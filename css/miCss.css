@@ -14,3 +14,9 @@ section article p{
   background-color: #e9ecef;
   border-radius: 1em;
 }
+h1 {
+  text-shadow: 5px 5px lightblue;
+  text-align: center;
+  width: 60%;
+ 
+}
